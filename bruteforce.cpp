@@ -1,3 +1,4 @@
+//Coded by LJX
 #include <iostream>
 #include <string.h>
 #include <stdbool.h>
