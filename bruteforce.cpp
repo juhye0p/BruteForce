@@ -29,7 +29,7 @@ int main(){
     int incRes = 0;
     int maxLength = 0;
 
-    std::cout << "MaxLength(0 ~ 256): ";
+    std::cout << "MaxLength(1 ~ 256): ";
     std::cin >> maxLength;
 
     if(maxLength <= 0 || maxLength > 256){
