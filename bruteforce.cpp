@@ -1,4 +1,4 @@
-//Coded by LJX
+//Coded by juhye0p
 #include <iostream>
 #include <string.h>
 #include <stdbool.h>
